@@ -9,8 +9,8 @@ Peerex Local Exchange is an essential element of Peerex platform. It allows to e
 * Front-end Javascript Client
 * Back-end application on our side having these functions:
   * Storing Offers
-  * Connecting users via [secure end-to-end WebRTC connections](privacy.md#webrtc)
-  * Connecting users with [instant end-to-end encrypted messages](privacy.md#encrypted-messages)
+  * Connecting users via [secure end-to-end WebRTC connections](/local_exchange/privacy.md#webrtc)
+  * Connecting users with [instant end-to-end encrypted messages](/local_exchange/privacy.md#encrypted-messages)
 
 ## Local Exchange flow
 

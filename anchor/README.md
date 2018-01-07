@@ -16,7 +16,7 @@ Once an Upgrade is completed, Peerex doesn't have to buy the assets back. It pre
 
 Jokes apart, an Upgrade can be considered as a win-win donation to Peerex foundation and it also proves an asset value. We will eventually send funds to support open organizations like Stellar.
 
-<i class="fa fa-book"></i> *Read more at [Anchor Decentralization page](decentralization.md).*
+<i class="fa fa-book"></i> *Read more at [Anchor Decentralization page](/anchor/decentralization.md).*
 
 ## Supported crypto currencies
 

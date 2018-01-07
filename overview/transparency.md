@@ -23,7 +23,7 @@ But as we're open organization, we will encourage free folks to share their back
 **Transparency in brief by element:**
 
 * <i class="fa fa-check success"></i> **Wallet** - no back-end, contacting with Stellar network only
-* <i class="fa fa-exclamation-triangle warn"></i> **Anchor** - each Stellar transaction is bound to a particular Upgrade. You can see the whole history of the anchor and verify that no asset is transferred without corresponding crypto-transaction. Also each Upgrade is revealing the source IP address ([read more](anchor/transparency.md))
+* <i class="fa fa-exclamation-triangle warn"></i> **Anchor** - each Stellar transaction is bound to a particular Upgrade. You can see the whole history of the anchor and verify that no asset is transferred without corresponding crypto-transaction. Also each Upgrade is revealing the source IP address ([read more](/anchor/transparency.md))
 * <i class="fa fa-check success"></i> **Asset Exchange** - no back-end, contacting with Stellar network only
-* <i class="fa fa-exclamation-triangle warn"></i> **Local Exchange** - each Offer created has an origin IP address and Stellar public key of the creator. Furthermore, each WebRTC end-to-end session initialization attempt is listed too with peers' IP addresses ([read more](local_exchange/transparency.md))
+* <i class="fa fa-exclamation-triangle warn"></i> **Local Exchange** - each Offer created has an origin IP address and Stellar public key of the creator. Furthermore, each WebRTC end-to-end session initialization attempt is listed too with peers' IP addresses ([read more](/local_exchange/transparency.md))
 * <i class="fa fa-exclamation-triangle warn"></i> **Payments Platform** - basically, a merchant is a programmatic user of Asset and Local Exchanges, so the same rule are applied to it

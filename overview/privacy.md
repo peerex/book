@@ -26,7 +26,7 @@ The truth is, any web-server in the internet knows your IP. Even if doesn't log 
 
 We can say that we do not log your IP, but can you trust us? And even if so, what happens if an attacker silently captures our servers and we couldn't warn you in time? They will be able to see all incoming requests' IP; moreover, each Stellar Node and our ISP (hosting company which connects out servers to the internet) always know your IP too.
 
-That's why we <i class="fa fa-exclamation-triangle warn"></i> **do log your IP address** when you make a request to our back-end. Moreover, we will **expose it** publicly to prevent surprises if the servers are attacked (read more about exposing at [Transparency Page](transparency.md)).
+That's why we <i class="fa fa-exclamation-triangle warn"></i> **do log your IP address** when you make a request to our back-end. Moreover, we will **expose it** publicly to prevent surprises if the servers are attacked (read more about exposing at [Transparency Page](/overview/transparency.md)).
 
 <div class="note danger">
   <i class="fa fa-exclamation-triangle"></i> If you want to stay anonymous, use VPN!

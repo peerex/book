@@ -34,8 +34,8 @@ Peerex does not need your ID or e-mail or anything else. You can buy, sell and e
 
 * <i class="fa fa-book"></i> [Peerex Privacy](/overview/privacy.md)
 * <i class="fa fa-book"></i> [Peerex Transparency](/overview/transparency.md)
-* <i class="fa fa-book"></i> [Anchor Privacy](privacy.md)
-* <i class="fa fa-book"></i> [Anchor Transparency](transparency.md)
+* <i class="fa fa-book"></i> [Anchor Privacy](/anchor/privacy.md)
+* <i class="fa fa-book"></i> [Anchor Transparency](/anchor/transparency.md)
 
 ## Accessible globally
 

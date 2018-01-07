@@ -20,19 +20,19 @@ Peerex consists of five **elements**:
 
 Our aim is to create a truly decentralized product independent from any government. Unlike other products claiming they will eventually become decentralized in the future, we can do it today - thanks to [Stellar](https://stellar.org). Which results in, even if our services are down or hacked or we run away, nothing breaks and nobody looses a penny.
 
-<i class="fa fa-book"></i> *Read more at [Decentralization page](decentralization.md).*
+<i class="fa fa-book"></i> *Read more at [Decentralization page](/overview/decentralization.md).*
 
 ## Privacy
 
 None of our services collect any sensitive data from you (except IP). No analytics, fingerprinting or third-party cookies. Ever.
 
-<i class="fa fa-book"></i> *Read more at [Privacy page](privacy.md).*
+<i class="fa fa-book"></i> *Read more at [Privacy page](/overview/privacy.md).*
 
 ## Transparency
 
 We're aiming to be as much transparent as possible. All operations, history, transactions are publicly accessible. All client-side code is [open-sourced](https://github.com/peerex).
 
-<i class="fa fa-book"></i> *Read more at [Transparency page](transparency.md).*
+<i class="fa fa-book"></i> *Read more at [Transparency page](/overview/transparency.md).*
 
 ---
 
