@@ -10,6 +10,13 @@
 
 The platform is intended to change the way money flow globally, making digital payments truly **decentralized**. Our mission is the same as Stellar's: to bring the joy and comfort of **instant** and **secure** money exchange to every place on the Earth and beyond.
 
+Follow us on:
+
+* [<i class="fa fa-twitter"></i> Twitter](https://twitter.com/mrpeerex)
+* [<i class="fa fa-paper-plane"></i> Telegram](https://t.me/peerex)
+* [<i class="fa fa-reddit"></i> Reddit](https://reddit.com/u/mrpeerex)
+* [<i class="fa fa-github"></i> Github](https://github.com/peerex)
+
 ## About this book
 
 What you're currently reading is an electronic book which aims to describe core Peerex concepts and goals in accessible language. Each part of it begins with an easy-to-understand description and may eventually evolve into a deeper technology specification. This book is open-source and its code available on Github: [github.com/peerex](https://github.com/peerex).
