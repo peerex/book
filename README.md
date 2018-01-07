@@ -19,7 +19,7 @@ Follow us on:
 
 ## About this book
 
-What you're currently reading is an electronic book which aims to describe core Peerex concepts and goals in accessible language. Each part of it begins with an easy-to-understand description and may eventually evolve into a deeper technology specification. This book is open-source and its code available on Github: [github.com/peerex](https://github.com/peerex).
+What you're currently reading is an electronic book which aims to describe core Peerex concepts and goals in accessible language. Each part of it begins with an easy-to-understand description and may eventually evolve into a deeper technology specification. This book is open-source and its code available on Github: [github.com/peerex](https://github.com/peerex/book).
 
 The book will be available in multiple translations.
 
