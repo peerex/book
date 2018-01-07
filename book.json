@@ -1,0 +1,27 @@
+{
+  "title": "Peerex Book",
+  "description": "A book about Peerex - Decentralized Asset Exchange Platform",
+  "author": "Mr. Peerex",
+  "gitbook": "~> 3",
+  "plugins": [
+    "anchorjs",
+    "theme-gestalt",
+    "-theme-default",
+    "styles-sass-fix",
+    "-fontsettings",
+    "-search",
+    "-lunr"
+  ],
+  "pluginsConfig": {
+    "anchorjs": {
+      "icon": "#",
+      "placement": "left"
+    },
+    "theme-gestalt": {
+      "logo": "/img/peerex-white.svg"
+    }
+  },
+  "styles": {
+    "website": "styles/website.sass"
+  }
+}

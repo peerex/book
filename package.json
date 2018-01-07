@@ -1,0 +1,23 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "Peerex Book",
+  "main": "index.js",
+  "devDependencies": {
+    "gitbook": "^3.2.3",
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peerex/book.git"
+  },
+  "author": "Mr. Peerex <mr@peerex.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peerex/book/issues"
+  },
+  "homepage": "https://github.com/peerex/book#readme"
+}
